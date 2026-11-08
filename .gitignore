@@ -1,6 +1,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.venv/
+graficos/.mplcache/
 
 # OS / Editor
 .DS_Store

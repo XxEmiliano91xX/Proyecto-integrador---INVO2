@@ -1,0 +1,41 @@
+id_escuela,cue_anexo,nombre,latitud,longitud,zona,tipo,niveles
+ESC01,660001200,Escuela N.° 4001 Juan Bautista Alberdi,-24.7890,-65.4186,centro,urbana,inicial;primario
+ESC02,660093100,Escuela N.° 4002 Mariano Cabezón,-24.7931,-65.4052,centro,urbana,inicial;primario
+ESC03,660050600,Escuela N.° 4017 Pte. Domingo Faustino Sarmiento,-24.7911,-65.4079,centro,urbana,inicial;primario
+ESC04,660031400,Escuela N.° 4022 Dr. Benjamín Zorrilla,-24.7888,-65.4112,centro,urbana,inicial;primario
+ESC05,660031700,Escuela N.° 4018 Dr. José Vicente Solá,-24.7690,-65.4072,norte,urbana,inicial;primario
+ESC06,660041400,Escuela N.° 4029 Dr. Nicolás Avellaneda,-24.7285,-65.4090,norte,urbana,inicial;primario
+ESC07,660059600,Escuela N.° 4031 Pedro Bonifacio Palacios,-24.7324,-65.4018,norte,urbana,inicial;primario
+ESC08,660052900,Escuela N.° 4043 Mons. Carlos Mariano Pérez,-24.7352,-65.4035,norte,urbana,inicial;primario
+ESC09,660060400,Escuela N.° 4030 Dr. Mariano Moreno,-24.8435,-65.4395,sur,urbana,inicial;primario
+ESC10,660035600,Escuela N.° 4035 Prof. Alejandro Gauffin,-24.8355,-65.4255,sur,urbana,inicial;primario
+ESC11,660051000,Escuela N.° 4036 Dr. Augusto Raúl Cortazar,-24.8330,-65.4290,sur,urbana,inicial;primario
+ESC12,660108200,Escuela N.° 4700 Legado Gral. Belgrano,-24.8505,-65.4320,sur,urbana,inicial;primario
+ESC13,660045500,Escuela N.° 4003 Dr. Joaquín Castellanos,-24.8035,-65.3945,este,urbana,inicial;primario
+ESC14,660066600,Escuela N.° 4645 25 de Mayo de 1810,-24.7995,-65.3995,este,urbana,inicial;primario
+ESC15,660134800,Escuela N.° 4774 Gral. Juan José Valle,-24.8280,-65.3770,este,urbana,inicial;primario
+ESC16,660144400,Escuela N.° 4811 2 de Mayo Crucero ARA Gral. Belgrano,-24.8365,-65.3812,este,urbana,inicial;primario
+ESC17,660047700,Escuela N.° 4005 Juan Carlos Dávalos,-24.7975,-65.4395,oeste,urbana,inicial;primario
+ESC18,660061100,Escuela N.° 4014 San José,-24.8045,-65.4425,oeste,urbana,inicial;primario
+ESC19,660002900,Escuela N.° 4015 Remedios de Escalada de San Martín,-24.7830,-65.4245,oeste,urbana,inicial;primario
+ESC20,660052100,Escuela N.° 4034 Santa Lucía,-24.8075,-65.4445,oeste,urbana,inicial;primario
+ESC21,660005600,Escuela N.° 4053 Gral. Rudecindo Alvarado (San Luis),-24.8550,-65.5050,periurbana,rural,inicial;primario
+ESC22,660046800,Escuela N.° 4055 José Manuel Estrada (Villa San Lorenzo),-24.7325,-65.4860,periurbana,rural,inicial;primario
+ESC23,660057100,Escuela N.° 4304 Nuestra Señora del Carmen (La Ciénaga),-24.8280,-65.4985,periurbana,rural,inicial;primario
+ESC24,660046700,Escuela N.° 4317 Tte. Cnel. Calixto Gauna (Finca Las Costas),-24.7640,-65.5120,periurbana,rural,inicial;primario
+ESC25,660067200,Escuela de Comercio N.° 5076 Dr. Arturo Illia,-24.7848,-65.4110,centro,urbana,secundario
+ESC26,660078700,Colegio Secundario N.° 5080 Dr. Manuel Antonio Castro,-24.7885,-65.4050,centro,urbana,secundario
+ESC27,660003900,Escuela de Comercio N.° 5083 Dr. Victorino de la Plaza,-24.7835,-65.4085,centro,urbana,secundario
+ESC28,660031800,Colegio Secundario N.° 5028 Reyes Católicos (Tres Cerritos),-24.7685,-65.3925,norte,urbana,secundario
+ESC29,660052600,Colegio Secundario N.° 5035 Batalla de Salta (Castañares),-24.7320,-65.4025,norte,urbana,secundario
+ESC30,660027600,Colegio Secundario N.° 5048 Juana Manuela Gorriti (P. Belgrano),-24.7265,-65.4110,norte,urbana,secundario
+ESC31,660035500,Colegio Secundario N.° 5027 Gral. José de San Martín,-24.8155,-65.4240,sur,urbana,secundario
+ESC32,660060900,Colegio Secundario N.° 5033 Dr. Ernesto Miguel Aráoz (Intersindical),-24.8428,-65.4350,sur,urbana,secundario
+ESC33,660045400,Colegio Secundario N.° 5071 Juan Carlos Saravia (Limache),-24.8510,-65.4305,sur,urbana,secundario
+ESC34,660059800,Colegio Secundario N.° 5024 Sargento Cabral (Villa Mitre),-24.7965,-65.3885,este,urbana,secundario
+ESC35,660003300,Colegio Secundario N.° 5038 América Latina (Villa Lavalle),-24.8215,-65.4040,este,urbana,secundario
+ESC36,660051500,Colegio Secundario N.° 5070 María Teresa Cadena de Hessling (V. Juanita),-24.8050,-65.3845,este,urbana,secundario
+ESC37,660027000,Colegio Secundario N.° 5026 20 de Febrero,-24.7845,-65.4235,oeste,urbana,secundario
+ESC38,660052000,Colegio Secundario N.° 5056 San José de Calasanz (B.° San José),-24.8040,-65.4420,oeste,urbana,secundario
+ESC39,660130600,Colegio Secundario N.° 5164 (Atocha),-24.8154,-65.4779,periurbana,rural,secundario
+ESC40,660144800,Colegio Secundario N.° 5176 (Villa Esmeralda - San Luis),-24.8555,-65.5045,periurbana,rural,secundario
